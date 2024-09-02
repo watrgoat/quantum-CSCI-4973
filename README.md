@@ -1,1 +1,1 @@
-# quantum-CSCI-4973
+## All code and notes for CSCI-4973 (Quantum Programming & Apps)
