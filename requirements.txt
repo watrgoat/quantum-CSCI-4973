@@ -4,3 +4,5 @@ qiskit-ibm-runtime
 qiskit[visualization]
 jupyter
 matplotlib
+numpy
+graphviz
